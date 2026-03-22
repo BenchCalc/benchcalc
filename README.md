@@ -1,6 +1,6 @@
 # BenchCalc
 
-**Offline science calculator, learning, and reference toolkit for the bench. 373 glossary terms, 13 protocols, 4 troubleshooting wizards, 9 reference tables.**
+**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, lab timer with save and pin.**
 
 Built by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), postdoctoral research associate at Newcastle University.
 
@@ -22,35 +22,35 @@ BenchCalc is a pocket reference, calculator, and bench guide built for scientist
 
 **Buffers and Reagents** - Buffer calculator, Henderson-Hasselbalch solver, stock solution preparation, multi-solute buffer builder with built-in reagent database.
 
-**Cell and Lab Tools** - Cell culture calculator with haemocytometer cell counting, seeding density planner, centrifuge RCF/RPM converter, doubling time calculator, radioactive decay calculator with preset isotopes and decay curve, lab timer with 28 presets.
+**Cell and Lab Tools** - Cell culture calculator with haemocytometer cell counting, seeding density planner, centrifuge RCF/RPM converter, doubling time calculator, radioactive decay calculator with preset isotopes and decay curve, lab timer with multiple simultaneous countdowns, 28 presets, save and pin favourites, background notifications.
 
 **PCR and Cloning** - PCR master mix calculator with enzyme presets and 10% overage, restriction digest calculator with up to 3 enzymes and automatic buffer compatibility checking, ligation calculator with enzyme presets and molar ratios, general reaction mix with C1V1=C2V2 scaling.
 
 **Sequence Analysis** - DNA/RNA/protein translator with auto-detection, reverse complement, six reading frames with ORF highlighting, feature annotation with prokaryotic/eukaryotic toggle.
 
-**Utilities** - Unit converter with full SI ladder (femto to peta) across 7 categories, quick calculator with expression history and memory, lab timer with multiple simultaneous countdowns.
+**Utilities** - Unit converter with full SI ladder (femto to peta) across 7 categories, quick calculator with expression history and memory.
 
 ## Troubleshooting
 
 Interactive diagnostic wizards for when experiments go wrong. Pick a problem, answer questions, get solutions with real gel images and cross-links to protocols and tools.
 
-**4 Wizards** - Cloning, PCR, Restriction Digest, and Agarose Gel. 47 questions and 139 solutions covering common and obscure problems. Cross-wizard navigation for related issues.
+**7 Wizards** - Cloning, PCR, Restriction Digest, Agarose Gel, Protein Expression, Protein Purification, and SDS-PAGE. 87 questions and 252 solutions covering common and obscure problems. Real gel images with toggleable comparisons. Cross-wizard navigation for related issues.
 
 **Save and Resume** - Save your diagnosis, come back to it later, or share it.
 
-More troubleshooting wizards are coming in future updates, including Protein Expression and Purification, Cryo-EM, IVT, and DNA/RNA Extraction.
+More troubleshooting wizards are coming in future updates, including Cryo-EM, IVT, and DNA/RNA Extraction.
 
 ## Bench Guide
 
 The Bench Guide is a comprehensive reference section written by the developer from his research experience.
 
-**Glossary - 373 Terms** across 10 scientific categories with molecular structure rendering for chemical compounds.
+**Glossary - 414 Terms** across 10 scientific categories with molecular structure rendering for chemical compounds.
 
-**Learn and Understand - 73 Entries** across 10 scientific disciplines, from physical chemistry through to experimental design and scientific writing. Written to build from first principles upward.
+**Learn and Understand - 87 Entries** across 10 scientific disciplines, from physical chemistry through to experimental design and scientific writing. Written to build from first principles upward.
 
 **Lab Safety - 20 Guides** covering acids and bases, organic solvents, biological and mutagens, toxic reagents, and physical hazards. Each entry has handling instructions, spill response, and first aid.
 
-**Lab Tips - 41 Tips** covering pipetting, gel electrophoresis, cell culture, protein work, DNA and RNA work, and equipment.
+**Lab Tips - 45 Tips** covering pipetting, reagent preparation, gel electrophoresis, cell culture, protein work, DNA and RNA work, and equipment.
 
 ## 13 Step-Through Protocols
 
@@ -80,7 +80,7 @@ Cloning design (in silico), cloning practical (bench workflow), miniprep, ethano
 
 ## Coming Soon
 
-**More Troubleshooting Wizards** - Protein Expression and Purification, Cryo-EM (Sample, Screening, Analysis), IVT, and DNA/RNA Extraction.
+**More Troubleshooting Wizards** - Cryo-EM (Sample, Screening, Analysis), IVT, and DNA/RNA Extraction.
 
 **DeskCalc** - Send data between desktop and mobile instantly. Paste a sequence on your laptop, pick it up on your phone at the bench. Plus a full desktop app.
 
