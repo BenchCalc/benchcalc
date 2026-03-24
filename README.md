@@ -1,6 +1,6 @@
 # BenchCalc
 
-**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, lab timer with save and pin.**
+**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, lab timer, data backup and sharing.**
 
 Built by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), postdoctoral research associate at Newcastle University.
 
@@ -74,6 +74,9 @@ Cloning design (in silico), cloning practical (bench workflow), miniprep, ethano
 - Three text sizes
 - Chemical structure rendering
 - Primer dimer analysis
+- Backup and restore all saved data
+- Import and export saved setups between devices
+- Share saved calculator setups, diagnoses, and guide entries
 - Tablet and landscape support
 - Works completely offline
 - No account required, no data collected
