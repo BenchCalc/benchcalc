@@ -1,6 +1,6 @@
 # BenchCalc
 
-**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, lab timer, data backup and sharing.**
+**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, 7 science games, lab timer, data backup and sharing.**
 
 Built by [Dr Jason Woodgate](https://jasonwoodgate.com), postdoctoral research associate at Newcastle University.
 
@@ -67,6 +67,18 @@ Cloning design (in silico), cloning practical (bench workflow), miniprep, ethano
 - **15 media and buffer recipes** - scalable recipes for LB, SOC, SOB, TB, 2xYT, M9, PBS, TBS, TAE, TBE, and more
 - **60 fluorophores and dyes** - excitation/emission, spectrum bars, Stokes shift, laser line compatibility filter
 - **13 gel ladders and dye migration** - 6 protein and 7 DNA ladders with band sizes, prestain colours, mass per band, loading volumes, plus dye migration tables for bromophenol blue and xylene cyanol
+
+## Games & Quizzes
+
+**Speed Runs** - Codons, Amino Acid Codes, Chemical Formulas, and Restriction Sites. 20 rounds, timed, best scores saved to leaderboards.
+
+**Nucleotide Memory** - Simon Says with A, T, G, C. Four difficulty modes. When the game ends you can see your full sequence and jump to the Sequence Translator or MW Calculator.
+
+**Restriction Site Snap** - A DNA sequence scrolls past, tap when you spot the recognition site. Quick Play at three difficulties, Expedition mode with 132 enzymes in a 4-phase DNA swamp trek, and Multi-Strand modes (Twin, Cross, Triple, Chaos). Three game modes: fastest time, countdown, or limited lives.
+
+**Science Quiz** - 75 questions across 5 topics: Lab Safety, DNA & Molecular Biology, Proteins & Amino Acids, Solutions & Chemistry, and Lab Techniques.
+
+**Leaderboards** - Gold, silver, and bronze. Filter by game, difficulty, and mode. Up to 20 scores per game. Share any score. Confetti for new personal bests.
 
 ## Features
 
