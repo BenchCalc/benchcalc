@@ -2,7 +2,7 @@
 
 **Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, lab timer, data backup and sharing.**
 
-Built by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), postdoctoral research associate at Newcastle University.
+Built by [Dr Jason Woodgate](https://jasonwoodgate.com), postdoctoral research associate at Newcastle University.
 
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc) | [Download on the App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149) | [benchcalc.co.uk](https://benchcalc.co.uk/)
 
@@ -42,11 +42,11 @@ More troubleshooting wizards are coming in future updates, including Cryo-EM, IV
 
 ## Bench Guide
 
-The Bench Guide is a comprehensive reference section written by the developer from his research experience.
+The Bench Guide is a reference section written from research experience.
 
 **Glossary - 414 Terms** across 10 scientific categories with molecular structure rendering for chemical compounds.
 
-**Learn and Understand - 87 Entries** across 10 scientific disciplines, from physical chemistry through to experimental design and scientific writing. Written to build from first principles upward.
+**Learn and Understand - 91 Entries** across 11 scientific disciplines, from the foundations of science through physical chemistry to experimental design and scientific writing. Written to build from first principles upward.
 
 **Lab Safety - 20 Guides** covering acids and bases, organic solvents, biological and mutagens, toxic reagents, and physical hazards. Each entry has handling instructions, spill response, and first aid.
 
@@ -89,15 +89,14 @@ Cloning design (in silico), cloning practical (bench workflow), miniprep, ethano
 
 ## About
 
-BenchCalc is made by [FeeDings! LTD](https://feedings.co.uk), a UK software company founded by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html) ([ORCID](https://orcid.org/0000-0002-8314-7192)).
-
-Built at the bench, for the bench.
+BenchCalc is made by [Feedings Ltd](https://feedings.co.uk), a UK software company founded by [Dr Jason Woodgate](https://jasonwoodgate.com) ([ORCID](https://orcid.org/0000-0002-8314-7192)).
 
 ## Links
 
 - [benchcalc.co.uk](https://benchcalc.co.uk/)
 - [Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc)
 - [App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149)
+- [jasonwoodgate.com](https://jasonwoodgate.com)
 - [Newcastle University Profile](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html)
 - [ORCID](https://orcid.org/0000-0002-8314-7192)
 - [@BenchCalc on X](https://x.com/BenchCalc)
