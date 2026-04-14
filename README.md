@@ -1,8 +1,8 @@
 # BenchCalc
 
-**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, 7 science games, lab timer, data backup and sharing.**
+**Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, 7 games and quizzes, lab timer, data backup and sharing.**
 
-Built by [Dr Jason Woodgate](https://jasonwoodgate.com), postdoctoral research associate at Newcastle University.
+Built by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), postdoctoral research associate at Newcastle University.
 
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc) | [Download on the App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149) | [benchcalc.co.uk](https://benchcalc.co.uk/)
 
@@ -32,9 +32,9 @@ BenchCalc is a pocket reference, calculator, and bench guide built for scientist
 
 ## Troubleshooting
 
-Interactive diagnostic wizards for when experiments go wrong. Pick a problem, answer questions, get solutions with real gel images and cross-links to protocols and tools.
+Interactive diagnostic wizards for when experiments go wrong. Pick a problem, answer questions, get solutions with gel images from my own PhD work and cross-links to protocols and tools.
 
-**7 Wizards** - Cloning, PCR, Restriction Digest, Agarose Gel, Protein Expression, Protein Purification, and SDS-PAGE. 87 questions and 252 solutions covering common and obscure problems. Real gel images with toggleable comparisons. Cross-wizard navigation for related issues.
+**7 Wizards** - Cloning, PCR, Restriction Digest, Agarose Gel, Protein Expression, Protein Purification, and SDS-PAGE. 87 questions and 252 solutions covering common and obscure problems. Gel images from my own PhD work with toggleable comparisons. Cross-wizard navigation for related issues.
 
 **Save and Resume** - Save your diagnosis, come back to it later, or share it.
 
@@ -42,7 +42,7 @@ More troubleshooting wizards are coming in future updates, including Cryo-EM, IV
 
 ## Bench Guide
 
-The Bench Guide is a reference section written from research experience.
+The Bench Guide is a comprehensive reference section written from my own research experience.
 
 **Glossary - 414 Terms** across 10 scientific categories with molecular structure rendering for chemical compounds.
 
@@ -68,17 +68,19 @@ Cloning design (in silico), cloning practical (bench workflow), miniprep, ethano
 - **60 fluorophores and dyes** - excitation/emission, spectrum bars, Stokes shift, laser line compatibility filter
 - **13 gel ladders and dye migration** - 6 protein and 7 DNA ladders with band sizes, prestain colours, mass per band, loading volumes, plus dye migration tables for bromophenol blue and xylene cyanol
 
-## Games & Quizzes
+## Games & Quizzes (Beta)
 
-**Speed Runs** - Codons, Amino Acid Codes, Chemical Formulas, and Restriction Sites. 20 rounds, timed, best scores saved to leaderboards.
+Test your science knowledge with 7 games and quizzes, all using data already in the app.
 
-**Nucleotide Memory** - Simon Says with A, T, G, C. Four difficulty modes. When the game ends you can see your full sequence and jump to the Sequence Translator or MW Calculator.
+- **Speed Run: Codons** - name the codon for each amino acid, 20 rounds timed with difficulty scaling and anti-cheat escalating penalties
+- **Speed Run: Amino Acid Codes** - name the single letter code
+- **Speed Run: Chemical Formulas** - name the formula for common lab chemicals
+- **Speed Run: Restriction Sites** - name the recognition site for restriction enzymes
+- **Nucleotide Memory** - Simon Says with DNA bases, four colours, four tones. Easy, Medium, Hard, and Ramp difficulty modes. Quitting saves your score. Game over shows your full sequence with cross-links to the Sequence Translator and MW Calculator
+- **Restriction Site Snap** - DNA scrolls past, tap when you spot the recognition site. Quick Play (Easy/Medium/Hard), Expedition (pack your enzymes from the full 132-enzyme database for a 4-phase DNA swamp trek with twin-strand finale), and Multi-Strand modes (Twin/Cross/Triple/Chaos with randomised lane configs). Fastest, Countdown, and Lives game modes. Two-level leaderboard filtering by game type and mode
+- **Science Quiz** - 75 questions across 5 topics: Lab Safety, DNA & Molecular Biology, Proteins & Amino Acids, Solutions & Chemistry, Lab Techniques
 
-**Restriction Site Snap** - A DNA sequence scrolls past, tap when you spot the recognition site. Quick Play at three difficulties, Expedition mode with 132 enzymes in a 4-phase DNA swamp trek, and Multi-Strand modes (Twin, Cross, Triple, Chaos). Three game modes: fastest time, countdown, or limited lives.
-
-**Science Quiz** - 75 questions across 5 topics: Lab Safety, DNA & Molecular Biology, Proteins & Amino Acids, Solutions & Chemistry, and Lab Techniques.
-
-**Leaderboards** - Gold, silver, and bronze. Filter by game, difficulty, and mode. Up to 20 scores per game. Share any score. Confetti for new personal bests.
+Gold, silver, and bronze leaderboard rows with up to 20 scores per game. Tabbed leaderboards per difficulty and topic. Share scores from the leaderboard. Victory celebrations for new personal bests.
 
 ## Features
 
@@ -101,14 +103,15 @@ Cloning design (in silico), cloning practical (bench workflow), miniprep, ethano
 
 ## About
 
-BenchCalc is made by [Feedings Ltd](https://feedings.co.uk), a UK software company founded by [Dr Jason Woodgate](https://jasonwoodgate.com) ([ORCID](https://orcid.org/0000-0002-8314-7192)).
+BenchCalc is made by [FeeDings! LTD](https://feedings.co.uk), a UK software company founded by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html) ([ORCID](https://orcid.org/0000-0002-8314-7192)).
+
+Built at the bench, for the bench.
 
 ## Links
 
 - [benchcalc.co.uk](https://benchcalc.co.uk/)
 - [Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc)
 - [App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149)
-- [jasonwoodgate.com](https://jasonwoodgate.com)
 - [Newcastle University Profile](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html)
 - [ORCID](https://orcid.org/0000-0002-8314-7192)
 - [@BenchCalc on X](https://x.com/BenchCalc)
