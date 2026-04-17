@@ -2,15 +2,15 @@
 
 **Offline science calculator, learning, and reference toolkit for the bench. 414 glossary terms, 13 protocols, 7 troubleshooting wizards, 9 reference tables, 7 games and quizzes, lab timer, data backup and sharing.**
 
-Built by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), postdoctoral research associate at Newcastle University.
+I'm [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), a postdoctoral research associate at Newcastle University, and I built BenchCalc as the offline lab companion I wished I'd had at the bench.
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc) | [Download on the App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149) | [benchcalc.co.uk](https://benchcalc.co.uk/)
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc) | [Download on the App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149) | Microsoft Store (coming soon) | [benchcalc.co.uk](https://benchcalc.co.uk/)
 
 ---
 
 ## What is BenchCalc?
 
-BenchCalc is a pocket reference, calculator, and bench guide built for scientists. It works entirely offline, has no ads, no tracking, and no account required. One-time purchase, everything included.
+BenchCalc is my pocket reference, calculator, and bench guide for scientists. It works entirely offline, has no ads, no tracking, and no account required. One-time purchase, everything included.
 
 ## Calculators
 
@@ -38,15 +38,15 @@ Interactive diagnostic wizards for when experiments go wrong. Pick a problem, an
 
 **Save and Resume** - Save your diagnosis, come back to it later, or share it.
 
-More troubleshooting wizards are coming in future updates, including Cryo-EM, IVT, and DNA/RNA Extraction.
+I'll be adding more troubleshooting wizards in future updates, including Cryo-EM, IVT, and DNA/RNA Extraction.
 
 ## Bench Guide
 
-The Bench Guide is a comprehensive reference section written from my own research experience.
+The Bench Guide is my comprehensive reference section, written from my own research experience.
 
 **Glossary - 414 Terms** across 10 scientific categories with molecular structure rendering for chemical compounds.
 
-**Learn and Understand - 91 Entries** across 11 scientific disciplines, from the foundations of science through physical chemistry to experimental design and scientific writing. Written to build from first principles upward.
+**Learn and Understand - 91 Entries** across 11 scientific disciplines, from the foundations of science through physical chemistry to experimental design and scientific writing. I wrote it to build from first principles upward.
 
 **Lab Safety - 20 Guides** covering acids and bases, organic solvents, biological and mutagens, toxic reagents, and physical hazards. Each entry has handling instructions, spill response, and first aid.
 
@@ -97,13 +97,13 @@ Gold, silver, and bronze leaderboard rows with up to 20 scores per game. Tabbed 
 
 ## Coming Soon
 
-**More Troubleshooting Wizards** - Cryo-EM (Sample, Screening, Analysis), IVT, and DNA/RNA Extraction.
+**DeskCalc** - A Windows desktop version of BenchCalc for the Microsoft Store. Full calculators, full Bench Guide, and the ability to send data between desktop and mobile instantly. Paste a sequence on my laptop, pick it up on my phone at the bench.
 
-**DeskCalc** - Send data between desktop and mobile instantly. Paste a sequence on your laptop, pick it up on your phone at the bench. Plus a full desktop app.
+**More Troubleshooting Wizards** - Cryo-EM (Sample, Screening, Analysis), IVT, and DNA/RNA Extraction.
 
 ## About
 
-BenchCalc is made by [FeeDings! LTD](https://feedings.co.uk), a UK software company founded by [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html) ([ORCID](https://orcid.org/0000-0002-8314-7192)).
+BenchCalc is made by [FeeDings! LTD](https://feedings.co.uk), my UK software company. I'm Dr Jason Woodgate ([ORCID](https://orcid.org/0000-0002-8314-7192)).
 
 Built at the bench, for the bench.
 
@@ -112,7 +112,10 @@ Built at the bench, for the bench.
 - [benchcalc.co.uk](https://benchcalc.co.uk/)
 - [Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc)
 - [App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149)
+- Microsoft Store (coming soon)
+- [r/benchcalc](https://reddit.com/r/benchcalc)
+- [@BenchCalc on X](https://x.com/BenchCalc)
+- [GitHub Discussions](https://github.com/BenchCalc/benchcalc/discussions)
 - [Newcastle University Profile](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html)
 - [ORCID](https://orcid.org/0000-0002-8314-7192)
-- [@BenchCalc on X](https://x.com/BenchCalc)
 - [support@benchcalc.co.uk](mailto:support@benchcalc.co.uk)
