@@ -10,7 +10,7 @@ I'm [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.h
 
 ## What is BenchCalc?
 
-BenchCalc is my pocket reference, calculator, and bench guide for scientists. It works entirely offline, has no ads, no tracking, and no account required. One-time purchase, everything included.
+BenchCalc is my pocket reference, calculator, and bench guide for scientists. It works entirely offline, has no ads, no tracking, and no account required. One-time purchase per store, everything included.
 
 ## Calculators
 
@@ -115,6 +115,7 @@ Built at the bench, for the bench.
 - Microsoft Store (coming soon)
 - [r/benchcalc](https://reddit.com/r/benchcalc)
 - [@BenchCalc on X](https://x.com/BenchCalc)
+- [@benchcalc.bsky.social on Bluesky](https://bsky.app/profile/benchcalc.bsky.social)
 - [GitHub Discussions](https://github.com/BenchCalc/benchcalc/discussions)
 - [Newcastle University Profile](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html)
 - [ORCID](https://orcid.org/0000-0002-8314-7192)
