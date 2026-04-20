@@ -4,7 +4,7 @@
 
 I'm [Dr Jason Woodgate](https://www.ncl.ac.uk/cbcb/staff/profile/jasonwoodgate.html), a postdoctoral research associate at Newcastle University, and I built BenchCalc as the offline lab companion I wished I'd had at the bench.
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc) | [Download on the App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149) | Microsoft Store (coming soon) | [benchcalc.co.uk](https://benchcalc.co.uk/)
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc) | [Download on the App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149) | [Microsoft Store](https://apps.microsoft.com/detail/9mx88gm1rfzx) | [benchcalc.co.uk](https://benchcalc.co.uk/)
 
 ---
 
@@ -40,9 +40,9 @@ Interactive diagnostic wizards for when experiments go wrong. Pick a problem, an
 
 I'll be adding more troubleshooting wizards in future updates, including Cryo-EM, IVT, and DNA/RNA Extraction.
 
-## Bench Guide
+## BenchGuide
 
-The Bench Guide is my comprehensive reference section, written from my own research experience.
+BenchGuide is my comprehensive reference section, written from my own research experience.
 
 **Glossary - 414 Terms** across 10 scientific categories with molecular structure rendering for chemical compounds.
 
@@ -97,8 +97,6 @@ Gold, silver, and bronze leaderboard rows with up to 20 scores per game. Tabbed 
 
 ## Coming Soon
 
-**DeskCalc** - A Windows desktop version of BenchCalc for the Microsoft Store. Full calculators, full Bench Guide, and the ability to send data between desktop and mobile instantly. Paste a sequence on my laptop, pick it up on my phone at the bench.
-
 **More Troubleshooting Wizards** - Cryo-EM (Sample, Screening, Analysis), IVT, and DNA/RNA Extraction.
 
 ## About
@@ -112,7 +110,7 @@ Built at the bench, for the bench.
 - [benchcalc.co.uk](https://benchcalc.co.uk/)
 - [Google Play](https://play.google.com/store/apps/details?id=com.feedingsrss.benchcalc)
 - [App Store](https://apps.apple.com/gb/app/benchcalc/id6760035149)
-- Microsoft Store (coming soon)
+- [Microsoft Store](https://apps.microsoft.com/detail/9mx88gm1rfzx)
 - [r/benchcalc](https://reddit.com/r/benchcalc)
 - [@BenchCalc on X](https://x.com/BenchCalc)
 - [@benchcalc.bsky.social on Bluesky](https://bsky.app/profile/benchcalc.bsky.social)
